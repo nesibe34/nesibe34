@@ -1,4 +1,5 @@
-### Hi there, I'm Nesibe👋
+![lorem picsum image](https://thumbs.dreamstime.com/b/programming-language-coding-banner-compilation-css-technology-210006161.jpg)
+## Hi there, I'm Nesibe👋
 
 
 - 🔭 I’m Full Stack Java Developer...
@@ -8,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,react,git,postman)](https://skillicons.dev)
 
-![lorem picsum image](https://thumbs.dreamstime.com/b/programming-language-coding-banner-compilation-css-technology-210006161.jpg)
+
 
 
 
